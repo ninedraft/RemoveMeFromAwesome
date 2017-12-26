@@ -36,7 +36,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 * Фронтендеры - геи,
 * Тян - не нужны,
 * Валера - бета тестер айоси,
-* Табакеров- филиал ада,
+* Табакеров - филиал ада,
 * Рома - пьющий китаец :)*
 
 * [Geeks](https://t.me/g33ks) - To geeks by geeks.
