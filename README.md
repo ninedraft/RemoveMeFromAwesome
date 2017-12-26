@@ -29,13 +29,17 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 ### Chatlanians
 
-*Lorem ipsum dolor sit amet.*
+Всё просто:
+* Админы - школьники,
+* Бобук - Бог,
+* Николаич - православие и отвага,
+* Фронтендеры - геи,
+* Тян - не нужны,
+* Валера - бета тестер айоси,
+* Табакеров- филиал ада,
+* Рома - пьющий китаец :)*
 
-* [Geeks](https://t.me/g33ks) - Lorem ipsum dolor sit amet.
-* [Geeks](https://t.me/g33ks) - Lorem ipsum dolor sit amet.
-* [Geeks](https://t.me/g33ks) - Lorem ipsum dolor sit amet.
-* [Geeks](https://t.me/g33ks) - Lorem ipsum dolor sit amet.
-* [Geeks](https://t.me/g33ks) - Lorem ipsum dolor sit amet.
+* [Geeks](https://t.me/g33ks) - To geeks by geeks.
 
 ## Services
 
