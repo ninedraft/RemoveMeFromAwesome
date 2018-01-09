@@ -52,7 +52,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 *Lorem ipsum dolor sit amet.*
 
-* [google](https://goo.gl) - Lorem ipsum dolor sit amet.
+* [RADIO-T](https://radio-t.com) - Подкаст с Бобуком, Умпутуном, Грэем и Ксюшей.
 
 # Reading channels
 
