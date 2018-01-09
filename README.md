@@ -31,7 +31,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 * [Geeks](https://t.me/g33ks) - To geeks by geeks.
 * [TM FEED](https://t.me/tmfeed) - description
-* [Новости Радио-Т](https://t.me/rtnew) - description
+* [Новости Радио-Т](https://t.me/radiotnews) - description
 
 ### Chatlanians
 
