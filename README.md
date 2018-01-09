@@ -27,6 +27,12 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 * [Addmeto](https://t.me/addmeto) - Lorem ipsum dolor sit amet.
 * [Techspark](https://t.me/techsparks) - Lorem ipsum dolor sit amet.
 
+### Other related channels
+
+* [Geeks](https://t.me/g33ks) - To geeks by geeks.
+* [TM FEED](https://t.me/tmfeed) - description
+* [Новости Радио-Т](https://t.me/rtnew) - description
+
 ### Chatlanians
 
 Всё просто:
