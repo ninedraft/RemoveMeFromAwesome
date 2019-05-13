@@ -41,7 +41,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 ### Related channels
 
-* [Geeks](http://t.me/g33ks) - 13204 subscribers
+* [Geeks](http://t.me/g33ks) - 13202 subscribers
 
     От гиков гикам!  
     Пишем о происходящем в информационных технологиях.  
@@ -52,7 +52,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 ### AddMeTo
 
-* [addmeto](http://t.me/addmeto) - 41637 subscribers
+* [addmeto](http://t.me/addmeto) - 41636 subscribers
 
     филиал addmeto.сс на земле
 
@@ -64,7 +64,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 ### Related services
 
-* [TM FEED](https://t.me/tmfeed) - 2464 subscribers
+* [TM FEED](https://t.me/tmfeed) - 2463 subscribers
 
     Посты с Хабрахабра + бонусом opennet  
       
@@ -83,7 +83,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 # Other Awesome Lists
 
-List of lists.
+* [RemoveMeFromAwesome](https://github.com/ninedraft/RemoveMeFromAwesome/)
 
 - - -
 

@@ -46,7 +46,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 # Other Awesome Lists
 
-List of lists.
+* [RemoveMeFromAwesome](https://github.com/ninedraft/RemoveMeFromAwesome/)
 
 - - -
 
