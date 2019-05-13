@@ -1,0 +1,34 @@
+entries:
+
+  Channels:
+
+    - link: http://t.me/g33ks
+      tags:
+        - chatlans
+
+    - link: http://t.me/addmeto
+      tags:
+        - addmeto
+
+    - link: http://t.me/techsparks
+      tags:
+        - addmeto
+
+    - link: https://t.me/tmfeed
+      tags:
+        - services
+
+    - link: https://t.me/radiotnews
+      tags:
+        - services
+
+tags:
+
+  addmeto:
+    title: AddMeTo
+
+  chatlans:
+    title: Related channels
+
+  services:
+    title: Related services
