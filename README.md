@@ -2,40 +2,12 @@
 
 A curated list of awesome Telegram channels, bots, chat's services, etc. related with addmeto-chat
 
-- [RemoveMeFrom Telegram](#removemefrom-telegram)
-    - [Channels](#channels)
-        - [Godfathers](#godfathers)
-        - [Chatlanians](#chatlanians)
-    - [Services](#services)
-- [Listening podcasts](#listening-podcasts)
-- [Reading channels](#reading-channels)
-    - [Programming languages](#programming-languages)
-    - [IT news](#it-news)
-    - [Popular science](#popular-science)
-    - [Other channels](#other-channels)
-
 - - -
 
-# RemoveMeFrom Telegram
-
-## Channels
-
-### Godfathers
-
-*Lorem ipsum dolor sit amet.*
-
-* [Addmeto](https://t.me/addmeto) - Lorem ipsum dolor sit amet.
-* [Techspark](https://t.me/techsparks) - Lorem ipsum dolor sit amet.
-
-### Other related channels
-
-* [Geeks](https://t.me/g33ks) - To geeks by geeks.
-* [TM FEED](https://t.me/tmfeed) - description
-* [Новости Радио-Т](https://t.me/radiotnews) - description
-
-### Chatlanians
+# Chatlanians
 
 Всё просто:
+
 * Админы - школьники,
 * Бобук - Бог,
 * Николаич - православие и отвага,
@@ -43,28 +15,69 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 * Тян - не нужны,
 * Валера - бета тестер айоси,
 * Табакеров - филиал ада,
-* Рома - пьющий китаец :)*
+* Рома - пьющий китаец :)
 
-* [Geeks](https://t.me/g33ks) - To geeks by geeks.
+- - -
 
-## Services
+# CONTENT
 
-*Lorem ipsum dolor sit amet.*
 
-* [Ачивки](https://goo.gl) - Lorem ipsum dolor sit amet.
-* [Статистика](https://goo.gl) - Lorem ipsum dolor sit amet.
+- [Channels](#channels)
+  
+  - [Related channels](#related-channels)
+  
+  - [AddMeTo](#addmeto)
+  
+  - [Related services](#related-services)
+  
 
-# Listening podcasts
 
-*Lorem ipsum dolor sit amet.*
+- - -
 
-* [RADIO-T](https://radio-t.com) - Подкаст с Бобуком, Умпутуном, Грэем и Ксюшей.
+# Awesome List
 
-# Reading channels
 
-*Lorem ipsum dolor sit amet.*
+## Channels
 
-* [google](https://goo.gl) - Lorem ipsum dolor sit amet.
+### Related channels
+
+* [Geeks](http://t.me/g33ks) - 13204 subscribers
+
+    От гиков гикам!  
+    Пишем о происходящем в информационных технологиях.  
+    Ждём критику, вопросы и предложения!  
+    @shpaker и @qqalexqq  
+    Оцените нас:  
+    https://telegram.me/tchannelsbot?start=g33ks
+
+### AddMeTo
+
+* [addmeto](http://t.me/addmeto) - 41637 subscribers
+
+    филиал addmeto.сс на земле
+
+* [TechSparks](http://t.me/techsparks) - 37232 subscribers
+
+    Аннотированные ссылки на интересные, полезные и удивительные новости хайтека.  
+      
+    Вопросы - @asebrant
+
+### Related services
+
+* [TM FEED](https://t.me/tmfeed) - 2464 subscribers
+
+    Посты с Хабрахабра + бонусом opennet  
+      
+    Канал неофициальный.  
+      
+    Советы/предложения/камни в спину ловит @shpaker
+
+* [RADIO-T FEEDS](https://t.me/radiotnews) - 74 subscribers
+
+    Неофициальный канал с новостными записями подкаста Радио-Т https://radio-t.com  
+    Если вы недовольны, то ловлю камни спиной - @shpaker  
+    Да, здесь, всё выглядит страшно, но всех вроде устраивает.
+
 
 - - -
 
@@ -73,6 +86,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 List of lists.
 
 - - -
+
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://goo.gl) first.
