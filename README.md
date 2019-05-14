@@ -1,4 +1,4 @@
-# RemoveMeFrom Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com)
+# RemoveMeFrom Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com) [![Build Status](https://travis-ci.org/ninedraft/RemoveMeFromAwesome.svg?branch=develop)](https://travis-ci.org/ninedraft/RemoveMeFromAwesome)
 
 A curated list of awesome Telegram channels, bots, chat's services, etc. related with addmeto-chat
 
