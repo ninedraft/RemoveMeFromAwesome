@@ -16,6 +16,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 * Валера - бета тестер айоси,
 * Табакеров - филиал ада,
 * Рома - пьющий китаец :)
+* Кот - не существует
 
 - - -
 
