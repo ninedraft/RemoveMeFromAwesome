@@ -1,3 +1,4 @@
 telethon
 PySocks
+pyyaml
 Jinja2
