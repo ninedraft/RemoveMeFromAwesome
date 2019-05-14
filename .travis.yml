@@ -6,7 +6,9 @@ before_install:
   - openssl aes-256-cbc -K $encrypted_aeac7b9fe7d3_key -iv $encrypted_aeac7b9fe7d3_iv -in anon.session.enc -out anon.session -d
 install:
   - pip install --upgrade pip
+  - pip install flake8
   - pip install -r requirements.txt
 
 script:
-  python main.py -id $TELEGRAM_API_ID -hash $TELEGRAM_API_HASH -c $CHANNELS_LIST -i $MARKDOWN_TEMPLATE -o $MARKDOWN_OUTPUT
+  - flake8 . --exit-zero
+  - python main.py -id $TELEGRAM_API_ID -hash $TELEGRAM_API_HASH -c $CHANNELS_LIST -i $MARKDOWN_TEMPLATE -o $MARKDOWN_OUTPUT
