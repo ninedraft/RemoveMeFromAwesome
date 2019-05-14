@@ -8,4 +8,4 @@ install:
   - pip install -r requirements.txt
 
 script:
-  python main.py
+  python main.py -id $TELEGRAM_API_ID -hash $TELEGRAM_API_HASH -c $CHANNELS_LIST -i $MARKDOWN_TEMPLATE -o $MARKDOWN_OUTPUT
