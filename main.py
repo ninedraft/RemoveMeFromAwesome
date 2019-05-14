@@ -1,6 +1,8 @@
+import argparse
+
 import jinja2
-import socks
 import yaml
+from socks import SOCKS5
 from telethon.sync import TelegramClient
 from telethon.tl.functions.channels import GetFullChannelRequest
 
@@ -18,34 +20,6 @@ class ListEntry():
 
 
 class WikiMaker():
-    API_ID = 0
-    API_HASH = ''
-    LIST_YAML_FILE = 'list.yml'
-    MARKDOWN_TEMPLATE_FILE = 'template.md'
-
-    DEFAULT_ENTRY = {
-        'url': None,
-        'title': None,
-        'description': None,
-        'subscribers': 0,
-        # 'start_from': None,
-        'pinned': False,
-        'tags': ['unsorted']
-    }
-
-    def __init__(self, proxy=None):
-        self.proxy = proxy
-
-    def run(self):
-        raw_data = self.load_list(self.LIST_YAML_FILE)
-        template_data = self.fill_list(api_id=self.API_ID,
-                                       api_hash=self.API_HASH,
-                                       data=raw_data,
-                                       proxy=self.proxy)
-        md_data = self.render_markdown(path=self.MARKDOWN_TEMPLATE_FILE,
-                                       data=template_data)
-
-        self.save_file(md_data, 'README.MD')
 
     def load_list(self, path):
         with open(path, 'r') as stream:
@@ -64,10 +38,10 @@ class WikiMaker():
                 channel = client(channel_request)
                 description = channel.full_chat.about.replace('\n', '  \n    ')
                 pinned = False if 'pinned' not in entry else entry['pinned']
-                tags = ['unsorted'] if 'tags' not in entry else entry['tags']
+                tags = None if 'tags' not in entry else entry['tags']
                 entry = ListEntry(url=entry['link'], title=channel.chats[0].title, description=description,
                                   subscribers=channel.full_chat.participants_count, pinned=pinned, tags=tags)
-                for tag in tags:
+                for tag in entry.tags:
                     tagname = tag if tag not in data['tags'] else data['tags'][tag]['title']
                     if tagname not in entries[category]:
                         entries[category][tagname] = []
@@ -88,10 +62,33 @@ class WikiMaker():
 
 
 def main():
-    proxy = (socks.SOCKS5, '127.0.0.1', 9050)
-    maker = WikiMaker(proxy=proxy)
-    maker.run()
+    proxy = None
 
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-p', '--proxy', type=str, default=None, help='socks5 proxy')
+    parser.add_argument('-id', '--telegram_api_id', type=int, required=True, help='api_id from telegram')
+    parser.add_argument('-hash', '--telegram_api_hash', type=str, required=True, help='api_hash from telegram')
+    parser.add_argument('-c', '--channels', type=str, default='list.yml', help='path to file with list of channels')
+    parser.add_argument('-i', '--input', type=str, required=True, help='path to file with Jinja2 template')
+    parser.add_argument('-o', '--output', type=str, required=True, help='path to file with Jinja2 templategenerated file')
+    args = parser.parse_args()
+
+
+    if args.proxy:
+        proxy_host, proxy_port = args.proxy.split(':')
+        proxy = (SOCKS5, proxy_host, int(proxy_port))
+
+    maker = WikiMaker()
+
+    raw_data = maker.load_list(args.channels)
+    template_data = maker.fill_list(api_id=args.telegram_api_id,
+                                   api_hash=args.telegram_api_hash,
+                                   data=raw_data,
+                                   proxy=proxy)
+    md_data = maker.render_markdown(path=args.input,
+                                   data=template_data)
+
+    maker.save_file(md_data, args.output)
 
 if __name__ == '__main__':
     main()
