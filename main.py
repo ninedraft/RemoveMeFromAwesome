@@ -70,9 +70,8 @@ def main():
     parser.add_argument('-hash', '--telegram_api_hash', type=str, required=True, help='api_hash from telegram')
     parser.add_argument('-c', '--channels', type=str, default='list.yml', help='path to file with list of channels')
     parser.add_argument('-i', '--input', type=str, required=True, help='path to file with Jinja2 template')
-    parser.add_argument('-o', '--output', type=str, required=True, help='path to file with Jinja2 templategenerated file')
+    parser.add_argument('-o', '--output', type=str, required=True, help='path for generated file')
     args = parser.parse_args()
-
 
     if args.proxy:
         proxy_host, proxy_port = args.proxy.split(':')
@@ -82,13 +81,14 @@ def main():
 
     raw_data = maker.load_list(args.channels)
     template_data = maker.fill_list(api_id=args.telegram_api_id,
-                                   api_hash=args.telegram_api_hash,
-                                   data=raw_data,
-                                   proxy=proxy)
+                                    api_hash=args.telegram_api_hash,
+                                    data=raw_data,
+                                    proxy=proxy)
     md_data = maker.render_markdown(path=args.input,
-                                   data=template_data)
+                                    data=template_data)
 
     maker.save_file(md_data, args.output)
+
 
 if __name__ == '__main__':
     main()
