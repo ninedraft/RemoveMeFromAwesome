@@ -7,7 +7,7 @@ from telethon.sync import TelegramClient
 from telethon.tl.functions.channels import GetFullChannelRequest
 
 
-class ListEntry():
+class ListEntry:
 
     def __init__(self, url, title, description, subscribers,
                  pinned=None, tags=None):
@@ -19,7 +19,7 @@ class ListEntry():
         self.tags = tags if tags else ['unsorted']
 
 
-class WikiMaker():
+class WikiMaker:
 
     def load_list(self, path):
         with open(path, 'r') as stream:
@@ -50,9 +50,9 @@ class WikiMaker():
         return entries
 
     def render_markdown(self, path, data):
-        templateLoader = jinja2.FileSystemLoader(searchpath="./")
-        templateEnv = jinja2.Environment(loader=templateLoader)
-        template = templateEnv.get_template(path)
+        template_loader = jinja2.FileSystemLoader(searchpath="./")
+        template_env = jinja2.Environment(loader=template_loader)
+        template = template_env.get_template(path)
 
         return template.render(categories=data)
 
