@@ -4,6 +4,17 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 - - -
 
+# CONTENT
+
+- [Chatlanians](#chatlanians) {% for category in categories %}
+- [Awesome List](#awesome-list)
+  - [{{ category }}](#{{ category | replace(" ", "-") | lower() }}){% for tagname in categories[category] %}
+    - [{{ tagname }}](#{{ tagname | replace(" ", "-") | lower() }}){% endfor %}{% endfor %}
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
+
+- - -
+
 # Chatlanians
 
 Всё просто:
@@ -16,17 +27,6 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 * Валера - бета тестер айоси,
 * Табакеров - филиал ада,
 * Рома - пьющий китаец :)
-
-- - -
-
-# CONTENT
-
-{% for category in categories %}
-- [{{ category }}](#{{ category | replace(" ", "-") | lower() }})
-  {% for tagname in categories[category] %}
-  - [{{ tagname }}](#{{ tagname | replace(" ", "-") | lower() }})
-  {% endfor %}
-{% endfor %}
 
 - - -
 

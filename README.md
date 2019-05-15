@@ -4,6 +4,19 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 - - -
 
+# CONTENT
+
+- [Chatlanians](#chatlanians) 
+- [Awesome List](#awesome-list)
+  - [Channels](#channels)
+    - [AddMeTo](#addmeto)
+    - [Related services](#related-services)
+    - [Related channels](#related-channels)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
+
+- - -
+
 # Chatlanians
 
 Всё просто:
@@ -19,21 +32,6 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 - - -
 
-# CONTENT
-
-
-- [Channels](#channels)
-  
-  - [AddMeTo](#addmeto)
-  
-  - [Related services](#related-services)
-  
-  - [Related channels](#related-channels)
-  
-
-
-- - -
-
 # Awesome List
 
 
@@ -41,11 +39,11 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 ### AddMeTo
 
-* [addmeto](https://t.me/addmeto) - 41649 subscribers
+* [addmeto](https://t.me/addmeto) - 41650 subscribers
 
     филиал addmeto.сс на земле
 
-* [TechSparks](https://t.me/techsparks) - 37198 subscribers
+* [TechSparks](https://t.me/techsparks) - 37194 subscribers
 
     Аннотированные ссылки на интересные, полезные и удивительные новости хайтека.  
       
@@ -67,28 +65,28 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
     Если вы недовольны, то ловлю камни спиной - @shpaker  
     Да, здесь, всё выглядит страшно, но всех вроде устраивает.
 
+* [radiot_comments](https://t.me/radiot_comments) - 190 subscribers
+
+    Комментарии к сайту подкаста https://radio-t.com
+
 ### Related channels
 
-* [Geeks](https://t.me/g33ks) - 13190 subscribers
+* [Geeks](https://t.me/g33ks) - 13189 subscribers
 
     От гиков гикам!  
     Пишем о происходящем в информационных технологиях.  
     Ждём критику, вопросы и предложения!  
     @shpaker и @qqalexqq
 
-* [Обнаружено в бета-версиях](https://t.me/beta_discovered) - 91 subscribers
+* [Обнаружено в бета-версиях](https://t.me/beta_discovered) - 92 subscribers
 
     Некоторые баги, фичи и исправления, которые я нашел в нестабильных версиях различного софта
 
-* [radiot_comments](https://t.me/radiot_comments) - 190 subscribers
-
-    Комментарии к сайту подкаста https://radio-t.com
-
-* [addmetotravel](https://t.me/addmetotravel) - 45 subscribers
+* [addmetotravel](https://t.me/addmetotravel) - 46 subscribers
 
     Путешествия участников самой отбитой ОПГ в телеграмме
 
-* [гиг пиг ниг](https://t.me/geekshit) - 6216 subscribers
+* [гиг пиг ниг](https://t.me/geekshit) - 6215 subscribers
 
     Отбитое дерьмо со всего телеграма   
     since 1862
@@ -127,7 +125,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
     краденые картинки и отрывочный дневник одного погромиста
 
-* [Попячечная 🌚](https://t.me/popyachsa) - 9353 subscribers
+* [Попячечная 🌚](https://t.me/popyachsa) - 9354 subscribers
 
     Олдфаг (иностранный агент) вещает. Оскорбление чувств, попрание морали, нежная любовь к правительству. Котики. Множественные сарказмы. Релиз-активность. Психопсы. Send nudes: @Popyachsa_BOT
 
