@@ -2,15 +2,11 @@ entries:
 
   Channels:
 
-    - link: http://t.me/g33ks
-      tags:
-        - chatlans
-
-    - link: http://t.me/addmeto
+    - link: https://t.me/addmeto
       tags:
         - addmeto
 
-    - link: http://t.me/techsparks
+    - link: https://t.me/techsparks
       tags:
         - addmeto
 
@@ -21,6 +17,46 @@ entries:
     - link: https://t.me/radiotnews
       tags:
         - services
+
+    - link: https://t.me/g33ks
+      tags:
+        - chatlans
+        
+    - link: https://t.me/beta_discovered
+      tags:
+        - chatlans
+
+    - link: https://t.me/radiot_comments
+      tags:
+        - chatlans
+
+    - link: https://t.me/addmetotravel
+      tags:
+        - chatlans
+
+    - link: https://t.me/geekshit
+      tags:
+        - chatlans
+
+    - link: https://t.me/big_bad_evil_goldfish
+      tags:
+        - chatlans
+
+    - link: https://t.me/happyHEP
+      tags:
+        - chatlans
+
+    - link: https://t.me/publicpavlik
+      tags:
+        - chatlans
+
+    - link: https://t.me/havka
+      tags:
+        - chatlans
+
+    - link: https://t.me/CardanoRussiaAnnouncements
+      tags:
+        - chatlans
 
 tags:
 
