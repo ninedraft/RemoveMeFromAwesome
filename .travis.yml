@@ -7,8 +7,9 @@ before_install:
 install:
   - pip install --upgrade pip
   - pip install flake8
+  - pip install yamllint
   - pip install -r requirements.txt
 
 script:
-  - flake8 . --exit-zero
+  - flake8 . --max-line-length 120
   - python main.py -id $TELEGRAM_API_ID -hash $TELEGRAM_API_HASH -c $CHANNELS_LIST -i $MARKDOWN_TEMPLATE -o $MARKDOWN_OUTPUT
