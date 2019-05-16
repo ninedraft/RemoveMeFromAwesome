@@ -39,11 +39,11 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
 ### AddMeTo
 
-* [addmeto](https://t.me/addmeto) - 41650 subscribers
+* [addmeto](https://t.me/addmeto) - 41653 subscribers
 
     филиал addmeto.сс на земле
 
-* [TechSparks](https://t.me/techsparks) - 37194 subscribers
+* [TechSparks](https://t.me/techsparks) - 37179 subscribers
 
     Аннотированные ссылки на интересные, полезные и удивительные новости хайтека.  
       
@@ -78,7 +78,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
     Ждём критику, вопросы и предложения!  
     @shpaker и @qqalexqq
 
-* [Обнаружено в бета-версиях](https://t.me/beta_discovered) - 92 subscribers
+* [Обнаружено в бета-версиях](https://t.me/beta_discovered) - 93 subscribers
 
     Некоторые баги, фичи и исправления, которые я нашел в нестабильных версиях различного софта
 
@@ -86,7 +86,7 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
 
     Путешествия участников самой отбитой ОПГ в телеграмме
 
-* [гиг пиг ниг](https://t.me/geekshit) - 6215 subscribers
+* [гиг пиг ниг](https://t.me/geekshit) - 6216 subscribers
 
     Отбитое дерьмо со всего телеграма   
     since 1862
@@ -121,13 +121,17 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
     Twitter https://twitter.com/CardanoRussia  
     Medium https://medium.com/
 
-* [лжец кучерявый](https://t.me/elidoc0rc) - 1545 subscribers
+* [лжец кучерявый](https://t.me/elidoc0rc) - 1547 subscribers
 
     краденые картинки и отрывочный дневник одного погромиста
 
-* [Попячечная 🌚](https://t.me/popyachsa) - 9354 subscribers
+* [Попячечная 🌚](https://t.me/popyachsa) - 9357 subscribers
 
     Олдфаг (иностранный агент) вещает. Оскорбление чувств, попрание морали, нежная любовь к правительству. Котики. Множественные сарказмы. Релиз-активность. Психопсы. Send nudes: @Popyachsa_BOT
+
+* [V̴O̶I̸D̴̯͕̎͊͝ ̷̢̧̓̄͝T̴̫͗̂̕Ṟ̶͘A̸̡̟̪͘N̸̨̗̎͆S̶͓͎̀̓̅͜M̵̯̬̅Ï̷ ̬Ť̷̲́͌T̷̙̖̉͜I̶̺̠͑N̷̤͚̟̟̲̦̈́̔̀̓͘͝G̷͓͒̅̓́͊̔̍͘!̴̅ ̧̟̹̦̰̙̂̓̄̄̒͑](https://t.me/hellchannel) - 534 subscribers
+
+    B̵E̷W̶A̸Ŕ̸̙̞̭͕̤͈͚̼͈̻́̍̚̚É̶̆̂͊͘̚̕ ̨̯͉͍̯ͅ ̷̗̩̘̫̜̭̞͐͌̽O̵̢̧͕̮͇͉͍͔̲͍̙̼̤̓̾͑͋̾ͅ ̧̢͍̭̣͕̮͕͜ͅ ̤̦F̶͗͊̓̋̃̐̒̀̾͌̍̚ ͆  ̨̨̨̨̨̧̡̬̩̺͔̬̥̮̫̩̺͇̣̭̬͇͙͙͕̯̝̻͎̻͓́̈́͆̎͜ͅͅ
 
 
 - - -
