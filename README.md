@@ -48,6 +48,13 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
     Аннотированные ссылки на интересные, полезные и удивительные новости хайтека.  
       
     Вопросы - @asebrant
+ 
+ * [Geeks](https://t.me/g33ks) - 13189 subscribers
+
+    От гиков гикам!  
+    Пишем о происходящем в информационных технологиях.  
+    Ждём критику, вопросы и предложения!  
+    @shpaker и @qqalexqq
 
 ### Related services
 
@@ -70,13 +77,6 @@ A curated list of awesome Telegram channels, bots, chat's services, etc. related
     Комментарии к сайту подкаста https://radio-t.com
 
 ### Related channels
-
-* [Geeks](https://t.me/g33ks) - 13189 subscribers
-
-    От гиков гикам!  
-    Пишем о происходящем в информационных технологиях.  
-    Ждём критику, вопросы и предложения!  
-    @shpaker и @qqalexqq
 
 * [Обнаружено в бета-версиях](https://t.me/beta_discovered) - 93 subscribers
 
